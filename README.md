@@ -3,7 +3,7 @@
 1️⃣ **Ingest Server:**  
 The user uploads a video stream to the **Ingest Server**, which acts as the entry point for the live stream.
 
-2️⃣ **Transcoding Queue:**  
+2️⃣ **Transcoding In Queue:**  
 The video is sent to a **transcoder queue** where multiple **Transcoding Servers** convert the video into different resolutions (e.g., **1080p**, **720p**, **480p**, **360p**) to ensure compatibility with various devices and network speeds.
 
 3️⃣ **Segment Creation:**  
